@@ -1,0 +1,9 @@
+{
+  "name": "Dima",
+  "age": 34,
+  "hobby": ["speaking", "teaching"],
+  "passport": {
+    "number": 24545334,
+    "issuer": "МВД"
+  }
+}
